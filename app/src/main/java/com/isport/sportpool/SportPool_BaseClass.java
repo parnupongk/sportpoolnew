@@ -86,7 +86,6 @@ public class SportPool_BaseClass extends ActionBarActivity implements OnClickLis
     // Control
     protected ListView listView = null;
     protected RelativeLayout layoutFooter = null;
-    protected ImageView main_img_close = null;
     protected LinearLayout main_layout_webview = null;
     protected AdView adView = null;
     protected AdView main_adView_isp = null;
@@ -247,9 +246,6 @@ public class SportPool_BaseClass extends ActionBarActivity implements OnClickLis
             main_adView_isp = (AdView) findViewById(R.id.main_adView_isp);
             main_layout_webview = (LinearLayout) findViewById(R.id.main_layout_webview);
             layoutFooter = (RelativeLayout)findViewById(R.id.main_layout_footer);
-            main_img_close = (ImageView)findViewById(R.id.main_img_close);
-            main_img_close.setOnClickListener(this);
-            main_img_close.setVisibility(View.GONE);
 
 
             CURRENT_PAGE_TH = CURRENT_PAGE_TH.equals("") ? getString(R.string.page_program) : CURRENT_PAGE_TH;
@@ -267,6 +263,7 @@ public class SportPool_BaseClass extends ActionBarActivity implements OnClickLis
 
                 Random rad = new Random();
                 int ads = rad.nextInt(3);
+                //setAdsIsport();
                 if (ads == 1) {
                     main_layout_webview.setVisibility(View.GONE);
                     main_adView_isp.setVisibility(View.GONE);
@@ -275,7 +272,6 @@ public class SportPool_BaseClass extends ActionBarActivity implements OnClickLis
                         @Override
                         public void onAdLoaded() {
                             super.onAdLoaded();
-                            main_img_close.setVisibility(View.VISIBLE);
                         }
                     });
 
@@ -289,7 +285,6 @@ public class SportPool_BaseClass extends ActionBarActivity implements OnClickLis
                         @Override
                         public void onAdLoaded() {
                             super.onAdLoaded();
-                            main_img_close.setVisibility(View.VISIBLE);
                         }
                     });
                     main_adView_isp.setVisibility(View.VISIBLE);
@@ -328,7 +323,6 @@ public class SportPool_BaseClass extends ActionBarActivity implements OnClickLis
         {
             main_adView_isp.setVisibility(View.GONE);
             adView.setVisibility(View.GONE);
-            main_img_close.setVisibility(View.VISIBLE);
             main_layout_webview.setVisibility(View.VISIBLE);
             main_layout_webview.removeAllViews();
             WebView wView = new WebView(this);
@@ -383,10 +377,6 @@ public class SportPool_BaseClass extends ActionBarActivity implements OnClickLis
 
     @Override
     public void onClick(View v) {
-        if(v == main_img_close)
-        {
-            layoutFooter.setVisibility(View.GONE);
-        }
         /*if(v == menuHeader)
 		{
 			Intent intent = new Intent(this, SportPool_Program.class);

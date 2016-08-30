@@ -47,7 +47,7 @@ public class SportPool_ScoreDetail extends Activity implements ReceiveDataListen
 	private ImageView imgLeagueName = null;
 	private TextView textLeagueName = null;
 	
-	private TableLayout layoutResult = null;
+	private RelativeLayout layoutResult = null;
 	private TextView team1 = null;
 	private TextView score = null;
 	private TextView time = null;
@@ -102,7 +102,7 @@ public class SportPool_ScoreDetail extends Activity implements ReceiveDataListen
         //layoutLeagueName.setBackgroundResource(R.drawable.tab02);
         imgLeagueName.setPadding((int)(10*imgUtil.scaleSize()), 0, (int)(5*imgUtil.scaleSize()), 0);
         
-        layoutResult = (TableLayout) findViewById(R.id.sub_score_detail_layout_result_score);
+        layoutResult = (RelativeLayout) findViewById(R.id.sub_score_detail_layout_result_score);
         team1 = (TextView) findViewById(R.id.sub_score_detail_result_team1);
         team2 = (TextView) findViewById(R.id.sub_score_detail_result_team2);
         score = (TextView) findViewById(R.id.sub_score_detail_result_score);
