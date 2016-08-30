@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\menu\\program.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\menu\\program.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\menu\\leagetable.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\menu\\leagetable.xml"
+    }
+]

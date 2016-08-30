@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_leaguetable.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_leaguetable.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_livescore_group_match.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_livescore_group_match.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_result.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_result.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_tded.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_tded.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_setting_team.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_setting_team.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_program.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_program.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_main.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_main.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_analysedetail.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_analysedetail.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_score_group_league.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_score_group_league.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_tded_header.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_tded_header.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_analyse_team.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_analyse_team.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_white_large.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_tded_detail.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_tded_detail.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_blue_round.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_analyse_history.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_analyse_history.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_smsfree.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_smsfree.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_smsfree.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_smsfree.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_menuleague_group_league.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_menuleague_group_league.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_active.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_active.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_news_detail.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_news_detail.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_score_detail_game.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_score_detail_game.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_smsservice.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_smsservice.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_white_small.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_analyse_static.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_analyse_static.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_logo.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_logo.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_analysedetail_poolavg.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_analysedetail_poolavg.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_smspremium.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_smspremium.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_analysedetail_chart.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_analysedetail_chart.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_setting_team_detail.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_setting_team_detail.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_score_match.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_score_match.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\mt_tab.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\io.karim\\materialtabs\\2.0.2\\res\\layout\\mt_tab.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_blue_small.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_smspremium.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_smspremium.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_menuleague.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_menuleague.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_login_fragment.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_programandscore_team.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_programandscore_team.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_score_group_match.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_score_group_match.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_activity_layout.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_analysedetail_headtohead.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_analysedetail_headtohead.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_score.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_score.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_white_round.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_blue_large.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_menuleague_group_country.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_menuleague_group_country.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_analyse.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_analyse.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_score_detail.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_score_detail.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_setting_team_detail.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_setting_team_detail.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_program_league.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_program_league.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_program_match.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_program_match.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_player.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_player.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sub_livescore_group_league.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_livescore_group_league.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_livescore.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_livescore.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_item_menu.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_item_menu.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_analysedetail_team.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_analysedetail_team.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\release\\layout\\sportpool_program_byteam.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_program_byteam.xml"
+    }
+]

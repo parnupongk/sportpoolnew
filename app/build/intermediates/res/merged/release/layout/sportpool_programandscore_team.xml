@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <io.karim.MaterialTabs
+        android:id="@+id/material_tabs"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        app:mtPaddingMiddle="false"
+        app:mtSameWeightTabs="true"
+        android:textColor="@color/actionbar_bg"
+        app:mtIndicatorColor="@color/actionbar_bg"
+        />
+
+    <android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/settingteam_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/material_tabs" />
+
+</RelativeLayout>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.isport.sportpool"
+    android:versionCode="7"
+    android:versionName="2.2" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+ <!-- Permissions required for GCM -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+
+    <application
+        name="com.isport.sportpool.SportPool_Application"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.isport.sportpool.SportPool_Logo"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="isport.co.th"
+                    android:pathPrefix="/sportpool/"
+                    android:scheme="http" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.isport.sportpool.SportPool_Program"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.isport.sportpool.SportPool_Livescore"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.isport.sportpool.SportPool_Result"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.isport.sportpool.SportPool_SettingTeam"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.isport.sportpool.SportPool_SettingTeam_Detail"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.isport.sportpool.SportPool_SettingTeam_Favorite"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.isport.sportpool.SportPool_LeagueTable"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.isport.sportpool.SportPool_Analyse"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.isport.sportpool.SportPool_AnalyseDetail"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.isport.sportpool.SportPool_Tded"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.isport.sportpool.SportPool_SMSService"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.isport.sportpool.SportPool_ResultDetail"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.isport.sportpool.SportPool_MenuLeague"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.isport.sportpool.SportPool_NewsDetail"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.isport.sportpool.SportPool_facebook"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.isport.sportpool.SportPool_Active"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.facebook.FacebookContentProvider"
+            android:authorities="com.facebook.app.FacebookContentProvider320504274771237"
+            android:exported="true" />
+
+        <!--
+        activity android:name="com.facebook.stream.FbConnect" android:screenOrientation="portrait" android:theme="@android:style/Theme.Translucent">
+        </activity
+        -->
+        <!--
+        activity android:name="SportPool_SettingTeam_Program" android:screenOrientation="portrait" ></activity>
+        <activity android:name="SportPool_SettingTeam_Score" android:screenOrientation="portrait" ></activity>
+        <activity android:name="SportPool_Player" android:screenOrientation="portrait" ></activity>
+        <activity android:name="SportPool_AnalyseDetail_HeadtoHead" android:screenOrientation="portrait" ></activity>
+        <activity android:name="SportPool_AnalyseDetail_Team" android:screenOrientation="portrait" ></activity>
+        <activity android:name="SportPool_AnalyseDetail_LeagueTable" android:screenOrientation="portrait" ></activity
+        -->
+        <!--
+        activity android:name="SportPool_SMSPremium" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name="SportPool_SMSFree" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar"></activity>
+        -->
+
+
+        <!--
+            service
+            android:name=".SportPool_Notify"
+            android:enabled="true" /
+        -->
+
+
+        <!--
+            meta-data
+            android:name="com.bumptech.glide.samples.giphy.GiphyGlideModule"
+            android:value="GlideModule" /
+        -->
+
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+    </application>
+
+</manifest>

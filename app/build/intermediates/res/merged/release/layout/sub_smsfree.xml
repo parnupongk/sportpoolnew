@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:background="@android:color/white"
+  >
+  <ImageView
+  	android:id="@+id/sub_smsfree_hilight"
+  	android:layout_width="wrap_content"
+  	android:layout_height="wrap_content"
+  />
+  <RelativeLayout
+  	android:id="@+id/sub_smsfree_layout_data_news"
+	android:layout_width="fill_parent"
+ 	android:layout_height="wrap_content"
+  >
+	  <FrameLayout
+	  	android:id="@+id/sub_smsfree_frame"
+	  	android:layout_width="wrap_content"
+	  	android:layout_height="wrap_content"
+	  >
+		  <ImageView
+		  	android:id="@+id/sub_smsfree_image"
+		  	android:layout_width="wrap_content"
+		  	android:layout_height="wrap_content"
+		  	android:layout_gravity="top"
+			  android:scaleType="fitXY"
+		  />
+		  <ProgressBar
+		  	android:id="@+id/sub_smsfree_progress"
+		  	android:layout_width="wrap_content"
+		  	android:layout_height="wrap_content"
+		  	android:layout_gravity="center_vertical|center_horizontal"
+		  />
+	  </FrameLayout>
+	
+	  <LinearLayout
+	    android:id="@+id/sub_smsfree_layout"
+	  	android:layout_width="fill_parent"
+	  	android:layout_height="wrap_content"
+	  	android:orientation="vertical"
+	  	android:layout_toRightOf="@+id/sub_smsfree_frame"
+	  	android:gravity="top"
+	  >
+		  <TextView
+		  	android:id="@+id/sub_smsfree_text_title"
+		  	android:layout_width="wrap_content"
+		  	android:layout_height="wrap_content"
+		  	style="@style/TextGreenBold"
+		  	
+		  />
+		  
+		  <TextView
+		  	android:id="@+id/sub_smsfree_text_detail"
+		  	android:layout_width="wrap_content"
+		  	android:layout_height="wrap_content"
+		  	android:ellipsize="end"
+		  	style="@style/TextBack"
+		  />
+	  </LinearLayout>
+	</RelativeLayout>
+</RelativeLayout>
