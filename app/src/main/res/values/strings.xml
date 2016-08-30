@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SportPool</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">320504274771237</string>
+    <string name="menu_delete">Delete</string>
+    <string name="page_program">โปรแกรม</string>
+    <string name="page_program_en">Program</string>
+    <string name="page_analyse">วิเคราะห์ - วิจารณ์</string>
+    <string name="page_analyse_en">Analyse</string>
+    <string name="page_analyse_detail">วิเคราะห์ - วิจารณ์</string>
+    <string name="page_analyse_detail_en">AnalyseDetail</string>
+    <string name="page_leaguetable">ตารางคะแนน</string>
+    <string name="page_leaguetable_en">Leaguetable</string>
+    <string name="page_livescore">ผลสด</string>
+    <string name="page_livescore_en">Livescore</string>
+    <string name="page_result">สรุปผล</string>
+    <string name="page_result_en">Result</string>
+    <string name="page_active">สมัครบริการ</string>
+    <string name="page_active_en">SubScribe Service</string>
+    <string name="page_favteam">ทีมโปรด</string>
+    <string name="page_favteam_en">Team</string>
+    <string name="page_favteam_detail">ทีมโปรด</string>
+    <string name="page_favteam_detail_en">TeamDetail</string>
+    <string name="page_smsservice">บริการ SMS</string>
+    <string name="page_smsservice_en">ServiceSMS</string>
+    <string name="page_News">ข่าว</string>
+    <string name="page_News_en">News</string>
+    <string name="page_tded">ทีเด็ด</string>
+    <string name="page_tded_en">Tded</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="facebook_app_id">320504274771237</string>
+    <string name="mddappid">2100450002</string>
+    <string name="admobFullId">ca-app-pub-2796964969269378/2554651442</string>
+    <string name="GoogleAnalyticsID">UA-59344651-13</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/left_menu_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/menu_layout_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/menu_image_header"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="-10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/navigation_bar_hside_menu" />
+
+        <ImageView
+            android:id="@+id/left_menu_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingLeft="5dip"
+            android:paddingRight="5dip" />
+
+        <TextView
+            android:id="@+id/menu_title"
+            style="@style/CustomTextWhite"
+            android:layout_width="270dip"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/left_menu_img"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:paddingBottom="5dip"
+            android:paddingLeft="5dip"
+            android:paddingRight="5dip"
+            android:paddingTop="5dip"
+            android:scrollHorizontally="true"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+</LinearLayout>

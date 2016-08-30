@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SportPool_Program"
+    android:background="@drawable/bg">
+	
+    <RelativeLayout 
+        android:id="@+id/program_layout_head"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_list_league">
+        
+        <TextView
+            android:id="@+id/program_txt_date"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_alignParentRight="true"
+        	android:layout_centerVertical="true"
+        	style="@style/CustomTextWhite"></TextView>
+        
+    </RelativeLayout>
+    
+      <TextView
+  		android:id="@+id/program_message"
+  		android:layout_width="wrap_content"
+  		android:layout_height="wrap_content"
+		android:layout_below="@+id/program_layout_head"
+  		style="@style/CustomText"
+  	/>
+	<ExpandableListView
+        android:id="@+id/pull_to_refresh"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/program_layout_head"
+        android:background="@android:color/transparent"
+		android:cacheColorHint="@android:color/transparent"
+		android:descendantFocusability="blocksDescendants"
+		android:groupIndicator="@drawable/play_expand_background"
+	    android:listSelector="@drawable/play_expand_seletor" />
+    
+</RelativeLayout>

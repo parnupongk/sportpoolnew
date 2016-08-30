@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@android:color/transparent"
+  android:layout_marginLeft="10dp">
+  
+    <RelativeLayout 
+        android:id="@+id/list_result_layout"
+        android:layout_width="fill_parent"
+  		android:layout_height="wrap_content"
+  		android:orientation="horizontal"
+  		android:layout_marginLeft="5dp"
+  		android:layout_marginRight="5dp">
+        
+  		<TextView
+  			android:id="@+id/list_result_status"
+  			android:layout_width="wrap_content"
+  			android:layout_height="fill_parent"
+  			android:layout_alignParentLeft="true"
+  			style="@style/TextGreen"
+  			android:layout_centerVertical="true"
+  		/>
+  	
+  		<TextView
+  			android:id="@+id/list_result_team1"
+  			android:layout_width="wrap_content"
+  			android:layout_height="fill_parent"
+  			style="@style/TextBack15"
+  			android:layout_toRightOf="@+id/list_result_status"
+  			android:singleLine="true"
+  			android:layout_centerVertical="true"
+  		/>
+  		
+  		<TextView
+  			android:id="@+id/list_result_result_ft"
+  			android:layout_width="wrap_content"
+  			android:layout_height="wrap_content"
+  			style="@style/TextScore15"
+  			android:layout_centerInParent="true"
+  			android:layout_centerVertical="true"
+  		/>
+
+  		<TextView
+  			android:id="@+id/list_result_team2"
+  			android:layout_width="wrap_content"
+  			android:layout_height="fill_parent"
+  			style="@style/TextBack15"
+  			android:layout_toRightOf="@+id/list_result_result_ft"
+  			android:singleLine="true"
+  			android:layout_centerVertical="true"
+  		/>
+  		
+  		<TextView
+  			android:id="@+id/list_result_result_ht"
+  			android:layout_width="wrap_content"
+  			android:layout_height="fill_parent"
+  			style="@style/TextScore15"
+  			android:layout_toLeftOf="@+id/list_result_img_detail"
+			android:layout_toRightOf="@+id/list_result_team2"
+  			android:layout_centerVertical="true"
+  			
+  		/>
+  		
+  		<ImageView
+  			android:id="@+id/list_result_img_detail"
+  			android:layout_width="wrap_content"
+  			android:layout_height="wrap_content"
+  			android:layout_centerVertical="true"
+ 			android:layout_centerHorizontal="true"
+ 			android:layout_alignParentRight="true"
+  		/> 
+  		
+  		</RelativeLayout>
+  		
+</RelativeLayout>

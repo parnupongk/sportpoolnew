@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:background="@android:color/transparent"
+    android:layout_marginLeft="20dp">
+    
+  <RelativeLayout 
+      android:id="@+id/subscore_layout_league"
+        android:layout_width="fill_parent"
+  		android:layout_height="wrap_content"
+  		android:orientation="horizontal"
+  		android:background="@drawable/bg_list_league">
+      <TextView
+          android:id="@+id/subscore_txt_league"
+  			android:layout_width="wrap_content"
+  			android:layout_height="wrap_content"
+  			android:layout_alignParentLeft="true" ></TextView>
+      
+      <RatingBar
+  		    android:id="@+id/subscore_ratbar_match"
+  		    android:layout_width="wrap_content"
+  		    android:layout_height="18dip"
+  		    android:layout_alignParentRight="true"
+        	style="@style/rating_bar"
+  		     />
+  	</RelativeLayout>
+    <RelativeLayout 
+        android:id="@+id/subscore_layout_detail"
+        android:layout_width="fill_parent"
+  		android:layout_height="wrap_content"
+  		android:orientation="horizontal"
+  		android:layout_below="@+id/subscore_layout_league"
+  		android:background="@drawable/bg_white">
+        
+  		<TextView
+  			android:id="@+id/sub_score_team1"
+  			android:layout_width="wrap_content"
+  			android:layout_height="wrap_content"
+  			android:layout_alignParentLeft="true"
+  			android:layout_centerVertical="true"
+  			android:layout_centerHorizontal="true"
+  			style="@style/TextBack19"
+  			android:gravity="right"
+  		/>
+  		
+  		<RelativeLayout
+  			android:orientation="vertical"
+  			android:id="@+id/sub_score_layout_time"
+  			android:layout_width="wrap_content"
+  			android:layout_height="fill_parent"
+  			android:layout_centerInParent="true"
+  		>
+  		
+  		    <TextView
+	  			android:id="@+id/sub_score_channel"
+	  			android:layout_width="wrap_content"
+	  			android:layout_height="wrap_content"
+  				android:layout_marginTop="10dp"
+  				android:layout_centerHorizontal="true"
+  				style="@style/TextScore15"
+	  		/>
+	  		<TextView
+	  			android:id="@+id/sub_score_time"
+	  			android:layout_width="wrap_content"
+	  			android:layout_height="wrap_content"
+  				android:layout_centerHorizontal="true"
+  				android:layout_above="@+id/sub_score_channel"
+  				style="@style/TextScore15"
+	  		/>
+	  		
+  		</RelativeLayout>
+  		
+
+  		<TextView
+  			android:id="@+id/sub_score_team2"
+  			android:layout_width="wrap_content"
+  			android:layout_height="wrap_content"
+  			android:singleLine="true"
+  			android:layout_centerVertical="true"
+ 			android:layout_centerHorizontal="true"
+ 			style="@style/TextBack19"
+ 			android:layout_toLeftOf="@+id/sub_score_img_detail"
+ 			android:gravity="right"
+  		/>
+  	
+  		<ImageView
+  			android:id="@+id/sub_score_img_detail"
+  			android:layout_width="wrap_content"
+  			android:layout_height="wrap_content"
+  			android:layout_centerVertical="true"
+ 			android:layout_centerHorizontal="true"
+ 			android:layout_alignParentRight="true"
+  		/>
+
+  		
+  		
+  </RelativeLayout>
+
+    <RelativeLayout 
+        android:id="@+id/subscore_layout_detail1"
+        android:layout_width="fill_parent"
+  		android:layout_height="wrap_content"
+  		android:orientation="horizontal"
+  		android:layout_below="@+id/subscore_layout_detail"
+  		android:background="@drawable/bg_white">
+  		
+        <TextView
+            android:id="@+id/subscore_txt_vote1"
+        	android:layout_width="wrap_content"
+  			android:layout_height="wrap_content"
+  			android:layout_alignParentLeft="true"
+  			android:gravity="right">
+            
+        </TextView>
+        <RelativeLayout
+  			android:orientation="vertical"
+  			android:id="@+id/subscore_layout_score"
+  			android:layout_width="wrap_content"
+  			android:layout_height="fill_parent"
+  			android:layout_centerInParent="true"
+  		>
+  		<TextView
+  		    android:id="@+id/subscore_txt_score"
+        	android:layout_width="wrap_content"
+  			android:layout_height="wrap_content"
+  			style="@style/TextScore15"
+  		    >
+  		</TextView>
+            
+            
+        </RelativeLayout>
+        <TextView
+            android:id="@+id/subscore_txt_vote2"
+        	android:layout_width="wrap_content"
+  			android:layout_height="wrap_content"
+  			android:layout_alignParentRight="true"
+  			android:gravity="right">
+            
+        </TextView>
+  		</RelativeLayout>
+  		
+    
+</RelativeLayout>

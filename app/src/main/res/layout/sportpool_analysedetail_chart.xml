@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".SportPool_Program"
+    android:background="@drawable/bg" >
+    
+		<RelativeLayout 
+	        android:id="@+id/analysedetailchart_layout_chart1"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:layout_alignParentTop="true"
+        	android:background="@color/black">
+	        
+	    </RelativeLayout>
+	    
+		<RelativeLayout 
+	        android:id="@+id/analysedetailchart_layout_chart2"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:layout_alignParentBottom="true"
+        	android:layout_below="@+id/analysedetailchart_layout_chart1"
+        	android:background="@drawable/bg_white">
+  		
+	        
+	    </RelativeLayout>
+</RelativeLayout>

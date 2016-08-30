@@ -1,0 +1,37 @@
+Applications Memory Usage (kB):
+Uptime: 6552725 Realtime: 10171387
+
+** MEMINFO in pid 10768 [com.isport_starsoccer] **
+                         Shared  Private     Heap     Heap     Heap
+                   Pss    Dirty    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------
+       Native        0        0        0    14528    11634      305
+       Dalvik     9356     5388     9208     9428     6801     2627
+       Cursor        0        0        0                           
+       Ashmem        0        0        0                           
+    Other dev       44       40        0                           
+     .so mmap     3597     2672     1136                           
+    .jar mmap        0        0        0                           
+    .apk mmap      250        0        0                           
+    .ttf mmap      417        0        0                           
+    .dex mmap     2207        0       28                           
+   Other mmap     1161      312      388                           
+      Unknown    21440      424    21432                           
+        TOTAL    38472     8836    32192    23956    18435     2932
+ 
+ Objects
+               Views:       68         ViewRootImpl:        1
+         AppContexts:        5           Activities:        2
+              Assets:        3        AssetManagers:        3
+       Local Binders:       11        Proxy Binders:       21
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:      807
+  PAGECACHE_OVERFLOW:      499          MALLOC_SIZE:      144
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)          cache  Dbname
+         4       28             74        11/24/8  /data/data/com.isport_starsoccer/databases/google_analytics_v4.db
+         4       40             20         0/15/1  /data/data/com.isport_starsoccer/databases/webview.db

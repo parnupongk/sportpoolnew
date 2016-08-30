@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg" >
+	
+    <ListView
+        android:id="@+id/settingteam_list_team"
+        android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:layout_alignParentTop="true">
+    </ListView>
+    
+    <RelativeLayout 
+        android:id="@+id/settingteam_layout_team"
+        android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:layout_below="@+id/settingteam_list_team"
+    	android:background="@drawable/bg_list_league">
+        
+        <TextView
+            android:id="@+id/settingteam_txt_choice"
+        	android:layout_width="fill_parent"
+    		android:layout_height="wrap_content"
+    		style="@style/CustomTextWhite"
+            ></TextView>
+    </RelativeLayout>
+    
+	<ExpandableListView 
+	    android:id="@+id/settingteam_expand_view"
+	    android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+	    android:layout_margin="5dip"
+	    android:layout_below="@+id/settingteam_layout_team"
+	    android:groupIndicator="@drawable/play_expand_background"
+	    android:listSelector="@drawable/play_expand_seletor">
+	    
+	</ExpandableListView>
+    
+</RelativeLayout>

@@ -1,0 +1,17 @@
+Applications Graphics Acceleration Info:
+Uptime: 6570892 Realtime: 10189554
+
+** Graphics info for pid 10768 [com.isport_starsoccer] **
+Profile data in ms:
+
+	com.isport_starsoccer/com.isport_starsoccer.StarSoccer_Active/android.view.ViewRootImpl@41998a68
+View hierarchy:
+
+  com.isport_starsoccer/com.isport_starsoccer.StarSoccer_Active/android.view.ViewRootImpl@41998a68
+  29 views, 0.00 kB of display lists
+
+
+Total ViewRootImpl: 1
+Total Views:        29
+Total DisplayList:  0.00 kB
+

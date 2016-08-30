@@ -1,0 +1,41 @@
+TASK com.isport_starsoccer id=26
+  ACTIVITY com.isport_starsoccer/.StarSoccer_Active 41a172a0 pid=10768
+    Local Activity 41952ad0 State:
+      mResumed=false mStopped=true mFinished=false
+      mLoadersStarted=false
+      mChangingConfigurations=false
+      mCurrentConfig={0.9 520mcc1mnc en_USfontPackageName=fontPath= ldltr sw320dp w320dp h544dp 240dpi nrml long port finger -keyb/v/h dpad/v skin=/system/framework/framework-res.apk s.9}
+    FragmentManager misc state:
+      mActivity=com.isport_starsoccer.StarSoccer_Active@41952ad0
+      mContainer=android.app.Activity$1@41952c98
+      mCurState=3 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{419548e0 I.E..... R.....ID 0,0-480,854}
+        android.widget.LinearLayout{41954f10 V.E..... ......ID 0,0-480,854}
+          android.view.ViewStub{41955ab8 G.E..... ......I. 0,0-0,0 #102035f}
+          android.widget.FrameLayout{41956070 V.E..... ......ID 0,38-480,854 #1020002 android:id/content}
+            android.widget.RelativeLayout{4195f7c0 V.E..... ......ID 0,0-480,816 #7f0d0018 app:id/layout_template}
+              android.widget.RelativeLayout{4195fc90 V.E..... ......I. 0,0-480,60 #7f0d0019 app:id/main_layout_top}
+                com.isport_starsoccer.StarSoccer_RelativeHeader{419955c0 V.E..... ......I. 0,0-480,60}
+                  android.widget.RelativeLayout{41995c08 V.E..... ......I. 0,0-480,60}
+                    android.widget.ImageView{41996318 V.ED..C. ......I. 0,1-109,58 #7f0d00b9 app:id/header_button_home}
+                    android.widget.ImageView{41996698 V.ED..C. ......I. 110,1-369,58 #7f0d00ba app:id/header_button_logo_starsoccer}
+                    android.widget.ImageView{41996a18 V.ED..C. ......I. 330,0-480,60 #7f0d00bb app:id/header_button_logo_3gx}
+                    android.widget.ImageView{41996d98 V.ED..C. ......ID 480,30-480,30 #7f0d00bc app:id/header_button_info}
+                    android.widget.ImageView{41997118 V.ED..C. ......ID 480,30-480,30 #7f0d00bd app:id/header_button_clip}
+              android.widget.RelativeLayout{41960268 V.E..... ......ID 0,60-480,741 #7f0d001a app:id/main_layout_center}
+                android.widget.RelativeLayout{41967780 V.E..... ......ID 0,0-480,681}
+                  android.widget.RelativeLayout{41967e48 V.E..... ......ID 0,0-480,681}
+                    android.widget.RelativeLayout{419684a8 V.E..... ......ID 15,30-480,681}
+                      android.widget.TextView{41968c90 V.ED.... ......I. 0,0-465,28 #7f0d0021 app:id/active_txt_header}
+                      android.widget.TextView{41969ec8 V.ED.... ......I. 0,36-465,106 #7f0d0022 app:id/active_txt_detail}
+                      android.widget.TextView{4196a5c0 V.ED.... ......I. 0,114-465,136 #7f0d0023 app:id/active_txt_footer}
+                      android.widget.EditText{4196af18 VFED..CL .F....ID 0,144-450,216 #7f0d0024 app:id/active_txt_mobile}
+                      android.widget.Button{4197c9d0 VFED..C. ......I. 107,232-357,312 #7f0d0025 app:id/active_submit}
+                      android.widget.TextView{41991298 V.ED.... ......I. 0,320-465,399 #7f0d0026 app:id/active_txt_footer1}
+              android.widget.RelativeLayout{41960840 V.E..... ......ID 0,741-480,816 #7f0d001b app:id/main_layout_footer}
+                android.widget.LinearLayout{41960e28 G.E..... ......ID 0,0-0,0 #7f0d001c app:id/main_layout_adview}
+                  com.google.android.gms.ads.AdView{41961340 V.E..... ......I. 0,0-0,0 #7f0d001d app:id/main_adView}
+                  com.google.android.gms.ads.AdView{41961f48 V.E..... ......I. 0,0-0,0 #7f0d001e app:id/main_adView_isp}
+                android.widget.LinearLayout{41963138 V.E..... ......ID 0,0-480,75 #7f0d001f app:id/main_layout_webview}
+                  android.webkit.WebView{41964178 VFEDHVCL ......ID 0,0-480,75 #7f0d0020 app:id/main_webview_banner}

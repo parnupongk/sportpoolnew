@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".SportPool_Program"
+    android:background="@drawable/bg">
+	
+    <RelativeLayout 
+        android:id="@+id/result_layout_head"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_list_league">
+        
+        <TextView
+            android:id="@+id/result_txt_date"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_alignParentRight="true"
+        	style="@style/CustomTextWhite"></TextView>
+        
+        
+    </RelativeLayout>
+    
+		<TextView
+            android:id="@+id/result_txt_null"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_alignParentLeft="true"
+        	style="@style/TextGreenBold"
+        	android:layout_below="@+id/result_layout_head"></TextView>		
+        							
+	<ExpandableListView
+        android:id="@+id/result_list_match"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:groupIndicator="@drawable/play_expand_background"
+	    android:listSelector="@drawable/play_expand_seletor"
+	    android:layout_below="@+id/result_layout_head" />
+    
+</RelativeLayout>

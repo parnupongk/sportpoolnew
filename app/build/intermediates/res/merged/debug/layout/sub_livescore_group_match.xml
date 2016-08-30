@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_white"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+     >
+     	  
+    <RelativeLayout
+        android:id="@+id/sub_livescore_layout_match"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerVertical="true" >
+        
+        <LinearLayout
+            android:id="@+id/sub_livescore_layout_time"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true">
+            
+	        <TextView
+	            android:id="@+id/sub_livescore_txt_time"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            style="@style/TextGreen"
+	            android:layout_gravity="center_vertical"
+	            android:paddingLeft="15dp"
+	             />
+		</LinearLayout>
+
+        <TextView
+            android:id="@+id/sub_livescore_txt_team1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/sub_livescore_txt_score"
+            android:singleLine="true"
+            style="@style/TextBack19"
+            android:layout_centerVertical="true" />
+
+
+            
+	        <TextView
+	            android:id="@+id/sub_livescore_txt_score"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_centerHorizontal="true"
+	            android:layout_centerVertical="true"
+	            style="@style/TextScore"
+	            android:layout_marginLeft="5dp"
+            	android:layout_marginRight="10dp"
+	             />
+
+
+        <TextView
+            android:id="@+id/sub_livescore_txt_team2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/sub_livescore_txt_score"
+            android:singleLine="true"
+            android:layout_centerVertical="true"
+            style="@style/TextBack19" />
+
+    </RelativeLayout>
+
+     
+  
+  
+</RelativeLayout>

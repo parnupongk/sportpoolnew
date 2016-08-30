@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@drawable/bg"
+  >
+  <RelativeLayout 
+      			android:id="@+id/active_layout_scrool"
+		      android:layout_width="fill_parent"
+		  	  android:layout_height="wrap_content"
+		  	  android:layout_above="@+id/active_layout_content">
+      <ScrollView
+    android:id="@+id/active_scroll_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+            
+    <RelativeLayout 
+        android:id="@+id/active_layout_txt"
+        android:layout_width="fill_parent"
+  		android:layout_height="wrap_content"
+  		android:layout_margin="10dp"
+  		android:background="@drawable/bg"
+        >  
+        
+
+        
+		  <TextView
+		  		android:id="@+id/active_txt_header"
+		  		android:layout_width="fill_parent"
+		  		android:layout_height="wrap_content"
+		  		style="@style/TextBackBold"
+		  		android:layout_marginBottom="5dp"
+		  	/>
+		  
+		  <TextView
+		  		android:id="@+id/active_txt_detail"
+		  		android:layout_width="fill_parent"
+		  		android:layout_height="wrap_content"
+		  		android:layout_below="@+id/active_txt_header"
+		  		style="@style/TextBack"
+		  		android:layout_marginBottom="5dp"
+		  	/>
+		  		  <TextView
+		  		android:id="@+id/active_txt_footer"
+		  		android:layout_width="fill_parent"
+		  		android:layout_height="wrap_content"
+		  		android:layout_below="@+id/active_txt_detail"
+		  		style="@style/TextBackAnalyse"
+		  		android:layout_marginBottom="5dp"
+		  	/>
+		  		  
+		  
+		  
+		  <TextView
+		  		android:id="@+id/active_txt_footer1"
+		  		android:layout_width="fill_parent"
+		  		android:layout_height="wrap_content"
+		  		android:layout_below="@+id/active_txt_footer"
+		  		style="@style/TextBack15"
+		  		android:layout_marginBottom="10dp"
+		  	/>
+
+		  
+	</RelativeLayout>
+		
+  </ScrollView>
+  </RelativeLayout>
+   <RelativeLayout
+		      android:id="@+id/active_layout_content"
+		      android:layout_width="fill_parent"
+		  	  android:layout_height="200dp"
+		  	  android:layout_alignParentBottom="true"
+		  	  android:background="@drawable/accept_bg">
+		      
+  		      <Button
+		      	android:id="@+id/active_submit"
+		      	android:layout_width="wrap_content"
+		  		android:layout_height="wrap_content"
+				android:layout_alignParentBottom="true"
+				android:layout_alignParentRight="true"
+		  		android:background="@drawable/accept_button"
+		      />
+  		      
+	</RelativeLayout>
+
+</RelativeLayout>

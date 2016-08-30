@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\MyProject\\Android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\debug\\values-bn\\values-bn.xml",
+        "outputFile": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\debug\\values-bn\\values-bn.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "E:\\MyProject\\Android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\values-bn\\values.xml",
+                    "file": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
