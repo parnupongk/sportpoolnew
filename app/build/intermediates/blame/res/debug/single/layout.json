@@ -164,12 +164,12 @@
         "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sportpool_main.xml",
-        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_main.xml"
-    },
-    {
         "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sportpool_main.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sportpool_main.xml"
     },
     {
         "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sportpool_programandscore_team.xml",
@@ -244,12 +244,12 @@
         "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\layout\\messenger_button_send_white_round.xml"
     },
     {
-        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sub_score_group_match.xml",
-        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_score_group_match.xml"
-    },
-    {
         "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
         "source": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sub_score_group_match.xml",
+        "source": "D:\\MyProject\\android\\sportpoolnew\\app\\src\\main\\res\\layout\\sub_score_group_match.xml"
     },
     {
         "merged": "D:\\MyProject\\android\\sportpoolnew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
