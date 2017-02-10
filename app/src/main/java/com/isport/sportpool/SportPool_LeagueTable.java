@@ -213,8 +213,8 @@ public class SportPool_LeagueTable extends SportPool_BaseClass implements Receiv
     	// TODO Auto-generated method stub
     	super.onStop();
     	resumeHasRun = false;
-    	DataSetting.contentGroupId = "";
-		finish();
+    	//DataSetting.contentGroupId = "";
+		//finish();
     }
 	
 	

@@ -8,8 +8,8 @@ android {
         applicationId "com.isport.sportpool"
         minSdkVersion 17
         targetSdkVersion 23
-        versionCode 7
-        versionName "2.2"
+        versionCode 8
+        versionName "3"
     }
     buildTypes {
         release {

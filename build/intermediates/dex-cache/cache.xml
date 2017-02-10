@@ -2,11 +2,355 @@
 <items version="2" >
 
     <item
+        is-multidex="true"
+        jar="C:\Users\parnu\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.0.0\2534c458682c73f5b9871131ab3098d3f987ca3\okio-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.0.0_f8c23b22b5ddd2718562fb32986c42d88ce22c05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-7.8.0_1c901473a18ef022caf0e03c28255164ee973a51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_e043768e466ca42bcd5f44c5c43cd71c1042fad6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\parnu\.gradle\caches\modules-2\files-2.1\org.twitter4j\twitter4j-core\4.0.6\f3722af4568b96ee66739267e13211b8b66ac7d4\twitter4j-core-4.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3722af4568b96ee66739267e13211b8b66ac7d4">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\twitter4j-core-4.0.6_4c0e6dbc77046460dc8b298baceefbdbfbaa7847\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.8.0_bc9ce0cbcc5b8c5dddc0646189b2e0c29f3459e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\parnu\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.0.0\4c8d1536dba3812cc1592090dc20c47a4ed3c35e\okhttp-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.0.0_f4069e8b3ff3604b2741206caa8f00c52a017b90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\parnu\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.0.0\afe8399d352713b66e597e9670c741d1e60ae923\okhttp-urlconnection-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-2.0.0_f24c6203170b604e5d1074c5f4e6cfa48b1c8078\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\parnu\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_e2702dc588360412b9b9db318aa1a22f6a021744\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_c19761aa644fc6ac420e48bc5a401284d09dc01e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.8.0_14756e40a1b8e033045d91a4e6e118eda1cec949\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\parnu\android-sdks\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_fcc28c6216a547e9730a92d477a4ae50f229e973\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.8.0_fd6fd4d3ffc6ad2ec9c92dce79ac199f258320c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_6d96e17ae7a5f42fe392e0db615c699a73e918ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.8.0_942783244bed665970921bf4dd029aa181e8c146\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
+        optimize="true"
         revision="23.0.1"
-        sha1="429884b41988e13ff98dea04e7d3f5160c17b31e">
+        sha1="d194ad0b275947ca9232cab2cbaf089b14dd9303">
         <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_95244b259ad1f3e19fa7c526d7c5ad4f16b60874\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.8.0_765994ed99430c6692be76af3914a92b73004888\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_f27abf252a0d5da70ac27e8fd28bed0315f98c82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\parnu\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.2.0_89653689b06ca0581afd77cbf9cd374201dbf55e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-22.2.0_14d51f1d1bf815987142929b2fdfbc17189d7f17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.8.0_41660a944cdfbe144cab6865d2ef8223b34199ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-7.8.0_8df3a665ae129f335db4b6522b6c6793a372b50d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.8.0_fec667119694cb6a930fb4a3fe2f6ce0bd86015f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.8.0_eb52a9bd35e1ee89e08c6a7c7d7cefa495483de2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.8.0_91ad4af2bb62fe4d9d921760ff2056660265ec67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.8.0_af1741d7c4d83ad64458f7d237d1b53c8c0a1ce3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\io.karim\materialtabs\2.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9f479d359413f050c682912af0f5e1fc7e5e6d07">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.karim-materialtabs-2.0.2_7a940e3bd94c9f8b08eda918b64ab337078a2b03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.8.0_1d98ba0531e59da2ee9f72813fb377ddd6f30d2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.8.0_40256e20160faf28930863e26ea81a674ba91e76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.8.0_120e441b5612c168f1652ca855300aa731c1a2b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-7.8.0_cad1f340d4b4bed63b037a79fec0601528a9840f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.8.0_62b220107fac9e30cae7f695b55198611f711d34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.8.0_34d47a891cea305902a4dcee223f1e6cedcf7011\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_7a091fe5a6f97bc7836b95718b32302ac31c6b55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.1.0_becdd6c290f797ae8bdfd7f4062c60c5b8fad4b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_dba7e2f36f98b929c59e19dd37721e5f836f34de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-7.8.0_6bfd6c861300f0d2231dbc32bb769f2b1ad79770\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="767644b721f5f51cabe92d8b64d06c29a5195f3c">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_594b3bb7ba190814601e1d0fd59d2394b9f18e89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.8.0_4021e72471fd8f19bd44e6b94e5ba0801762ceb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyProject\android\sportpoolnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="D:\MyProject\android\sportpoolnew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-7.8.0_3936ca439fadd5a65546d6de38670a13df003068\classes.dex" />
     </item>
 
 </items>
