@@ -264,7 +264,7 @@ public class SportPool_BaseClass extends ActionBarActivity implements OnClickLis
                 Random rad = new Random();
                 int ads = rad.nextInt(3);
                 //setAdsIsport();
-                if (ads == 1) {
+                if (ads < 4 ) {
                     main_layout_webview.setVisibility(View.GONE);
                     main_adView_isp.setVisibility(View.GONE);
 
@@ -277,7 +277,7 @@ public class SportPool_BaseClass extends ActionBarActivity implements OnClickLis
 
                     adView.setVisibility(View.VISIBLE);
                     adView.loadAd(adRequest);
-                } else //if (ads == 2)
+                } /*else //if (ads == 2)
                 {
                     main_layout_webview.setVisibility(View.GONE);
                     adView.setVisibility(View.GONE);
@@ -290,7 +290,7 @@ public class SportPool_BaseClass extends ActionBarActivity implements OnClickLis
                     });
                     main_adView_isp.setVisibility(View.VISIBLE);
                     main_adView_isp.loadAd(adRequest);
-                }
+                }*/
                 //} else {
                 //    setAdsIsport();
                 //}
